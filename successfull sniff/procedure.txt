@@ -1,0 +1,5 @@
+scan ap
+select ap
+attack deauth and INSTANT after scan pmkid passive.
+
+convert to hcap on https://hashcat.net/cap2hashcat/
