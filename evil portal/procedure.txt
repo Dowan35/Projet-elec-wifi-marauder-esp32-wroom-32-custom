@@ -1,0 +1,13 @@
+evil portal du marauder:
+mettre apconfig et index sur la racine de la carte sd
+
+evil portal appli séparée:
+apps/
+  GPIO/
+    evil_portal.fap
+apps_data/
+  evil_portal/
+    ap.config.txt
+    index.html
+    logs/
+      <empty>
